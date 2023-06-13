@@ -1,5 +1,15 @@
 {
-    "name": "com.chocolate4.water",
-    "version": "0.0.1",
-    "displayName": "Chocolate4 Water Shader"
+  "name": "com.chocolate4.water",
+  "version": "0.0.1",
+  "displayName": "Chocolate4 Water Shader",
+  "description": "Provides cartoon and realisticish water shaders with materials and a plane.",
+  "unity": "2022.2",
+  "dependencies": {
+    "com.unity.render-pipelines.universal": "14.0.7"
+ },
+  "author": {
+    "name": "Chocolate4",
+    "email": "chocolate4help@gmail.com",
+    "url": "https://github.com/Valphai/Water-Shader"
+  }
 }
